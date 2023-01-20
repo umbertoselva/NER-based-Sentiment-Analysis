@@ -1,6 +1,6 @@
 # NER-based-Sentiment-Analysis
 
-This Data Science project's goal is to find out what actors and film directors are more popular among the users of the "I Just Watched" movie review subreddit (July 2022).
+This Data Science project's goal is to find out which actors and film directors are most popular among the users of the "I Just Watched" movie review subreddit (July 2022).
 
 Tech used: `Python`, `spaCy`, `Pandas`, `NumPy`, `TensorFlow`, `Huggingface Transformers`, `Flair`
 
